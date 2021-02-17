@@ -3,7 +3,7 @@
  * description: Random list(array) for next.
  * homepage: https://github.com/afeiship/next-random-list
  * version: 1.0.0
- * date: 2021-02-17 15:23:21
+ * date: 2021-02-17 15:24:09
  * license: MIT
  */
 
